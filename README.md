@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I,m Muhammad Usman and I'm a Computer Engineer | Developer | Data Scientist.
+### I'm a Computer Engineer | Developer | Data Scientist.
 ### A progressive smart soul who loves innovations , research and development.
 
 [![Muhammad Usman github stats](https://github-readme-stats.vercel.app/api?username=usman61&theme=blue-green&show_icons=true)](https://github.com/usman61/github-readme-stats)
