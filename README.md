@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Computer Engineer | Developer | Data Scientist.
+### I'm a Data Scientist | ML Engineer | Developer.
 ### A progressive smart soul who loves innovations , research and development.
 
 [![Muhammad Usman github stats](https://github-readme-stats.vercel.app/api?username=usman61&theme=blue-green&show_icons=true)](https://github.com/usman61/github-readme-stats)
@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Reinforcement Learning
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
