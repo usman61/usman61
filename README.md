@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm a Data Scientist | ML Engineer | Developer.
-### A progressive smart soul who loves innovations , research and development.
+### I'm Data Science Machine & Learning Devotee.
+### A progressive smart soul who loves innovations, research and development.
 
 [![Muhammad Usman github stats](https://github-readme-stats.vercel.app/api?username=usman61&show_icons=true)](https://github.com/usman61/github-readme-stats)
 <!-- [![Usman's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman61&theme=blue-green)](https://github.com/usman61/github-readme-stats) -->
