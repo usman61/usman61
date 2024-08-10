@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Data Science & Software Development Devotee.
+### Machine Learning & Software Development Devotee.
 ### A progressive smart soul who loves innovations, research and development.
 
 [![Muhammad Usman github stats](https://github-readme-stats.vercel.app/api?username=usman61&show_icons=true)](https://github.com/usman61/github-readme-stats)
